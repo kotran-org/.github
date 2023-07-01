@@ -11,7 +11,7 @@
 </p>
 
 ## Introduction
-This provides a public organization profile. 
+It provides a public organization profile. 
 
 ## License
 All contents of the repository are free to use under the [MIT License](http://opensource.org/licenses/MIT).
