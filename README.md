@@ -1,6 +1,3 @@
-# .github
-A repository for public organization profile
-
 <p align="center">
     <h1 align="center">
         <img src="https://github.com/kotran-io/kotran-assets/blob/main/images/symbol/symbol_colored.svg" width="50" height="50">
